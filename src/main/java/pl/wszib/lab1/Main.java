@@ -12,7 +12,7 @@ public class Main {
         myclass.name1="name1";
         myclass.name2="name2";
 
-        Mypackageclass Mypackageclass= new Mypackageclass;
+
 
 
 
